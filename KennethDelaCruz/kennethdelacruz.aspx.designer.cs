@@ -11,7 +11,7 @@ namespace KennethDelaCruz
 {
 
 
-    public partial class Portfolio
+    public partial class kennethdelacruz
     {
 
         /// <summary>

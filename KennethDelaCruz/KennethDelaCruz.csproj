@@ -1721,7 +1721,7 @@
     <Content Include="img\1x1.jpg" />
     <Content Include="img\2.jpg" />
     <Content Include="img\biker.jpg" />
-    <Content Include="img\bluess.jpg" />
+    <Content Include="img\blues.jpg" />
     <Content Include="img\gitarer.jpg" />
     <Content Include="img\k.png" />
     <Content Include="img\ken.jpg" />
@@ -1729,13 +1729,13 @@
     <Content Include="jquery.easing\jquery.easing.min.js" />
     <Content Include="jquery\jquery.min.js" />
     <Content Include="js\main.js" />
+    <Content Include="kennethdelacruz.aspx" />
     <Content Include="lib\bootstrap-sweetalert\sweetalert.css" />
     <Content Include="lib\bootstrap-sweetalert\sweetalert.js" />
     <Content Include="lib\bootstrap-sweetalert\sweetalert.min.css" />
     <Content Include="lib\bootstrap-sweetalert\sweetalert.min.js" />
     <Content Include="owl-carousel\owl.carousel.min.css" />
     <Content Include="owl-carousel\owl.carousel.min.js" />
-    <Content Include="Portfolio.aspx" />
     <Content Include="style.css" />
     <Content Include="twitter-bootstrap\css\bootstrap.min.css" />
     <Content Include="twitter-bootstrap\js\bootstrap.bundle.min.js" />
@@ -1792,12 +1792,12 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Portfolio.aspx.cs">
-      <DependentUpon>Portfolio.aspx</DependentUpon>
+    <Compile Include="kennethdelacruz.aspx.cs">
+      <DependentUpon>kennethdelacruz.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Portfolio.aspx.designer.cs">
-      <DependentUpon>Portfolio.aspx</DependentUpon>
+    <Compile Include="kennethdelacruz.aspx.designer.cs">
+      <DependentUpon>kennethdelacruz.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
